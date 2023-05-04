@@ -12,7 +12,7 @@ import cohere
 
 #from cohere.client import CohereClient # Import the CohereClient
 
-from template import HTML_RANDOM_TEMPLATE,render_entities,get_tags,mytag_visualizer,plot_mendelhall_curve,plot_word_freq_with_altair,get_most_common_tokens
+from look import HTML_RANDOM_TEMPLATE,render_entities,get_tags,mytag_visualizer,plot_mendelhall_curve,plot_word_freq_with_altair,get_most_common_tokens
 #
 from flask import Flask
 from flask_babel import Babel
